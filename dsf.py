@@ -4,6 +4,6 @@ class Solution:
 
 
 sol = Solution()
-print(sol.toLowerCase("Hello"))  # Output: "hello"
-print(sol.toLowerCase("here"))   # Output: "here"
-print(sol.toLowerCase("LOVELY")) # Output: "lovely"
+print(sol.toLowerCase("Hello"))
+print(sol.toLowerCase("here"))   
+print(sol.toLowerCase("LOVELY")) 
